@@ -1,4 +1,4 @@
-module github.com/zelch/sqlc
+module github.com/kyleconroy/sqlc
 
 go 1.15
 
